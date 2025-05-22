@@ -3,3 +3,7 @@ h1 {
   text-align:center;
   font-size:250;
 }
+p {
+        font-family: 'Copperplate', fantasy;
+         font-size: 25px;
+      }
